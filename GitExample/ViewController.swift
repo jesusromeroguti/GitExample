@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Proyecto de ejemplo para probar las funcionalidades de git")
+        let today = NSDate()
+        print(today)
     }
 
 
